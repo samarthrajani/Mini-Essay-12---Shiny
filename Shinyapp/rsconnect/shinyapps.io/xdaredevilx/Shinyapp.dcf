@@ -1,0 +1,12 @@
+name: Shinyapp
+title: Shinyapp
+username: xdaredevilx
+account: xdaredevilx
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11640950
+bundleId: 8444349
+url: https://xdaredevilx.shinyapps.io/Shinyapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
