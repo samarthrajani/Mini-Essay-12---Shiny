@@ -1,0 +1,18 @@
+---
+title: "Mini-Essay 12"
+author: "Samarth Rajani"
+date: today
+date-format: long
+format: pdf
+number-sections: true
+---
+
+The project undertaken in creating plots and table about the Auschwitz victims and discussion of victims of slave trade from Africa discussed in Bouie(2022) present many similarities. They are described here:
+
+# Importance of historical data
+
+Bouie describes in detail how putting together data regarding the slave trade is a long, laborious task being completed over decades and is still in progress. Starting right in 1888 with the second volume of “History of the United States of America, From the Discovery of the American Continent,” by George Bancroft up until today. This is similar for the data I encountered in this study as there is always difficulties in obtaining data from about a century ago. Further, due to the fragility of the issue data tends to have been either tampered with or unreliable in some aspects, making it harder to assess.
+
+# Ethical concerns with analysis of data
+
+As discussed in Bouie's article, there are some ethical concerns with analyzing and presenting data pertaining to traumatic historical events. Should such data be publicly available? Is our analysis in ay way affecting the emotions or dignity of the individuals involved? There have to be ethical protocols in place to ensure no party involved is affected negatively.
