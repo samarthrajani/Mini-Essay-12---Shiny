@@ -4,6 +4,7 @@ author: "Samarth Rajani"
 date: today
 date-format: long
 format: pdf
+thanks: "Code and data are available at: https://github.com/samarthrajani/Mini-Essay-12---Shiny. Shiny app linked at : https://xdaredevilx.shinyapps.io/Shinyapp/"
 number-sections: true
 ---
 
